@@ -1,0 +1,11 @@
+postgres://
+
+amsxzmvxuirfor
+:
+ab7e790fd9b72f0330fdfdfb585ce461fc497c7da097b36c758e09a3283e777f
+@
+ec2-184-73-243-101.compute-1.amazonaws.com
+:
+5432
+/
+d4eeoih9up6doj
